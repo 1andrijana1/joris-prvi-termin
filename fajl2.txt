@@ -1,1 +1,1 @@
-neki tekst na master grani
+"neki tekst sa master i nova grana"
